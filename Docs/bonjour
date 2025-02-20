@@ -1,0 +1,21 @@
+total 148
+drwxr-xr-x 13 gchauvot 2024_paris   4096 Dec  4 16:26 .
+drwxr-xr-x 35 gchauvot 2024_paris   4096 Dec  4 11:19 ..
+drwxr-xr-x  2 gchauvot 2024_paris    121 Dec  4 11:19 builtins
+drwxr-xr-x  2 gchauvot 2024_paris     21 Dec  4 16:26 Docs
+drwxr-xr-x  2 gchauvot 2024_paris     19 Dec  4 11:19 env
+drwxr-xr-x  2 gchauvot 2024_paris     76 Dec  4 11:19 executor
+drwxr-xr-x  8 gchauvot 2024_paris    163 Dec  4 11:19 .git
+drwxr-xr-x  2 gchauvot 2024_paris   4096 Dec  4 11:19 Libft
+-rw-r--r--  1 gchauvot 2024_paris      0 Dec  4 16:26 ls
+-rw-r--r--  1 gchauvot 2024_paris    453 Dec  4 11:19 Makefile
+-rwxr-xr-x  1 gchauvot 2024_paris 108280 Dec  4 16:07 minishell
+-rw-r--r--  1 gchauvot 2024_paris   1849 Dec  4 11:19 minishell.c
+-rw-r--r--  1 gchauvot 2024_paris   7514 Dec  4 12:07 minishell.h
+drwxr-xr-x  5 gchauvot 2024_paris   4096 Dec  4 12:16 minishell_tester
+drwxr-xr-x  2 gchauvot 2024_paris    114 Dec  4 11:19 parsing
+-rw-r--r--  1 gchauvot 2024_paris    133 Dec  4 11:19 readline.supp
+-rw-r--r--  1 gchauvot 2024_paris      7 Dec  4 12:05 s
+drwxr-xr-x  2 gchauvot 2024_paris     30 Dec  4 11:19 signals
+drwxr-xr-x  2 gchauvot 2024_paris    107 Dec  4 11:19 splitter
+drwxr-xr-x  2 gchauvot 2024_paris     75 Dec  4 11:19 .vscode
